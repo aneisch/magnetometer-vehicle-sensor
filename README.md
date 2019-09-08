@@ -19,6 +19,7 @@ QMC5883L: 3v or 5v, GND, D1 (SCL), D2 (SDA)
 Reed Switch: GND, D7  
 Relay: D8 (you can modify the pin # on V2, or physically cut D1 pin and add bodge wire)  
 Voltage Divider: GND (if not shared ground), A0
+Don't forget to connect the external wifi antenna if needed!
 
 ![Stack from the front](images/front.jpg)
 
