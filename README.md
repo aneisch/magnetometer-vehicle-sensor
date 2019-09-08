@@ -24,3 +24,5 @@ Don't forget to connect the external wifi antenna if needed!
 ![Stack from the front](images/front.jpg)
 
 ![Stack from the back](images/back.jpg)
+
+![Wiring annotated](images/wiring.jpg)
