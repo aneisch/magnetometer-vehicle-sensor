@@ -12,8 +12,8 @@ Compile using ESPHome from https://github.com/esphome/esphome/pull/671 for QMC58
 [D1 Mini Proto Board](https://www.aliexpress.com/item/32627711647.html): $0.30  
 [QMC5883L Triple Axis Compass Magnetometer](https://smile.amazon.com/gp/product/B008V9S64E): $6.59  
 [Sonoff IP66 Junction Box](https://www.banggood.com/SONOFF-IP66-Waterproof-Junction-Box-Waterproof-Case-Water-resistant-Shell-p-1223669.html): $6.99  
-[Voltage Divider](https://smile.amazon.com/gp/product/B06XHKZCD4) (to measure up to 25v): $1.38  
-Miscellaneous cables: $0
+[Voltage Divider](https://smile.amazon.com/gp/product/B06XHKZCD4): $1.38  
+Miscellaneous wires: $0
 
 # Wiring
 QMC5883L: 3v or 5v, GND, D1 (SCL) D2 (SDA)
