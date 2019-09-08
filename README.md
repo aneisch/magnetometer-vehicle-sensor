@@ -15,7 +15,7 @@ Compile using ESPHome from https://github.com/esphome/esphome/pull/671 for QMC58
 [Voltage Divider](https://smile.amazon.com/gp/product/B06XHKZCD4): $1.38  
 
 # Wiring
-QMC5883L: 3v or 5v, GND, D1 (SCL) D2 (SDA)  
+QMC5883L: 3v or 5v, GND, D1 (SCL), D2 (SDA)  
 Reed Switch: GND, D7  
 Relay: D8 (you can modify the pin # on V2, or physically cut D1 pin and add bodge wire)  
 Voltage Divider: GND (if not shared ground), A0
