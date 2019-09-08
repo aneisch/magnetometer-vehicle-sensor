@@ -13,13 +13,12 @@ Compile using ESPHome from https://github.com/esphome/esphome/pull/671 for QMC58
 [QMC5883L Triple Axis Compass Magnetometer](https://smile.amazon.com/gp/product/B008V9S64E): $6.59  
 [Sonoff IP66 Junction Box](https://www.banggood.com/SONOFF-IP66-Waterproof-Junction-Box-Waterproof-Case-Water-resistant-Shell-p-1223669.html): $6.99  
 [Voltage Divider](https://smile.amazon.com/gp/product/B06XHKZCD4): $1.38  
-Miscellaneous wires: $0
 
 # Wiring
 QMC5883L: 3v or 5v, GND, D1 (SCL) D2 (SDA)
 Reed Switch: GND, D7
 Relay: D8 (you can modify the pin # on V2, or physically cut D1 pin and add bodge wire)
-
+Voltage Divider: GND (if not shared ground), A0
 
 ![Stack from the front](images/front.jpg)
 
