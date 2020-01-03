@@ -1,4 +1,6 @@
 # Magnetometer Vehicle Sensor
+<a href="https://www.buymeacoffee.com/aneisch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" width="150px" height="35px" alt="Buy Me A Coffee" style="height: 35px !important;width: 150px !important;" ></a>
+<br>
 
 D1 Mini Pro based vehicle detection sensor utilizing QMC5883L magnetometer. Features vehicle detection using megnetometer, gate staus with reed switch, battery voltage detection with voltage divider, and relay for gate actuation. 
 
