@@ -57,9 +57,9 @@ script:
               state: OFF
 
 mqtt:
-  broker: 104.131.62.194
+  broker: SERVER
   username: gate
-  password: gzFCjyjNXA
+  password: PASS
   log_topic:
   on_message:
     - topic: cmd/gate
